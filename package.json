@@ -20,7 +20,7 @@
     "*.{css,scss,vue}": "stylelint"
   },
   "dependencies": {
-    "@aws-amplify/api": "4.0.4",
+    "@aws-amplify/api": "4.0.5",
     "@babel/core": "7.14.6",
     "@babel/runtime-corejs3": "7.14.7",
     "@nuxtjs/axios": "5.13.6",
