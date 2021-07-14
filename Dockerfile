@@ -1,4 +1,4 @@
-FROM node:12.22.3-alpine
+FROM node:16.5.0-alpine
 
 ENV HOST 0.0.0.0
 
