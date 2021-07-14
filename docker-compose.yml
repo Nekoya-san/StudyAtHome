@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   studyathome:
-    image: node:12.22.3-alpine
+    image: node:16.5.0-alpine
     command: /bin/sh -c "yarn install && yarn run dev"
     working_dir: /app
     ports:
